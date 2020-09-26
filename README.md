@@ -1,0 +1,2 @@
+# SovietMod
+ Bot dla Zaika
